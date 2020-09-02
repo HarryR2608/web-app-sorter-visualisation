@@ -1,0 +1,25 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: var(--primary);
+    color: var(--tertiary);
+}
+
+.header_set{
+    display: flex;
+}
+
+.header_item {
+    padding: 5px;
+}
+
+.header_set {
+    list-style-type: none;
+}
+
+.header_dropdown {
+    min-width: 200px;
+}
+
