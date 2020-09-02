@@ -1,0 +1,33 @@
+.controlBar {
+    display: flex;
+    justify-content: center;
+}
+
+.button {
+    border-radius: 50%;
+    background-color: var(--primary);
+    border: 0 !important;
+    outline: none;
+    margin: 10px;
+}
+
+.button_play {
+    border-radius: 50%;
+    background-color: var(--accent);
+    font-size: large;
+    border: 0;
+    outline: none;
+    margin: 10px;
+}
+
+.button_play > .MuiSvgIcon-root{
+    border-radius: 50%;
+    font-size: 60px;
+    color: var(--tertiary);
+    background-color: var(--accent);
+}
+
+.button_icon{
+    background-color: var(--primary);
+    color: var(--tertiary);
+}
