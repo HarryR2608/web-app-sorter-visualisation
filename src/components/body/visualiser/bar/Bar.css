@@ -1,0 +1,6 @@
+.bar {
+    height: 200px;
+    width: 30px;
+    background-color: var(--tertiary);
+    margin: 1px;
+}
