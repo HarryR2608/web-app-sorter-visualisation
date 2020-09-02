@@ -1,0 +1,10 @@
+.body {
+    background-color: var(--background);
+    padding: 20px;
+    height: 100vh;
+}
+
+.body_main {
+    background-color: var(--primary);
+    padding: 20px;
+}
