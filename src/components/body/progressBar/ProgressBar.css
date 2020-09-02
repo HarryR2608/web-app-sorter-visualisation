@@ -1,0 +1,15 @@
+.progressBar {
+    margin: 5px;
+    margin-top: 10px !important;
+    height: 10px;
+    border-radius: 5px;
+    background-color: var(--secondary);
+}
+
+.progressBar_active {
+    --width: 50%;
+    width: var(--width);
+    height: 10px;
+    border-radius: 5px;
+    background-color: var(--accent);
+}
