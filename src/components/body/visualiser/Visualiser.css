@@ -1,0 +1,7 @@
+.visualiser {
+    height: 400px;
+    background-color: var(--secondary);
+    display: flex;
+    padding: 20px;
+    align-items: flex-end;
+}
